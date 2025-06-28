@@ -1,0 +1,7 @@
+streamlit==1.43.0
+pandas==2.2.3
+mysql-connector-python==9.3.0
+SQLAlchemy==2.0.38
+python-dotenv==1.0.1
+openai==1.82.0
+groq==0.26.0
